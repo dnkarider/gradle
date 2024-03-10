@@ -1,0 +1,8 @@
+.idea/
+target/
+.gradle/
+gradle/
+build/
+output/
+release/
+debug/
